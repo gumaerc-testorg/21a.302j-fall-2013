@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1c389436-56ec-64c4-cd23-0fac28a7ab51
 ---
@@ -261,7 +264,7 @@ Angell, Marcia. "[The Ethics of Clinical Research in the Third World](http://dx.
 
 Reproduction, Contraception, and Abortion
 
-Screening: [_Skin Deep: Norplant in Poor Communities_](http://www.youtube.com/watch?v=5HEIKzld1sk) and [_12th & Delaware_](http://www.imdb.com/title/tt1548865/)
+Screening: [_Skin Deep: Norplant in Poor Communities_](http://www.youtube.com/watch?v=5HEIKzld1sk) and [_12{{< sup "th" >}} & Delaware_](http://www.imdb.com/title/tt1548865/)
 
 
 {{< tdclose >}}

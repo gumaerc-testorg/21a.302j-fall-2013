@@ -3,8 +3,13 @@ content_type: resource
 description: "Handout containing suggestions for reading course texts, giving oral\
   \ presentations, developing strong questions, and writing a closing summary.\r\n\
   \r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/f4e9d6ba23dad287fb909956fd294ada_MIT21A_302JF13_Guidelines.pdf
+file: /media/courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/f4e9d6ba23dad287fb909956fd294ada_MIT21A_302JF13_Guidelines.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "Guidelines for Reading and Discussion in \u201CDilemmas in Bio-Medical Ethics:\
   \ Playing God or Doing Good?\u201D"
