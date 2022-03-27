@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9831ab93-b81e-4066-931c-dd50c9884cf7
 resourcetype: Document
 title: "Guidelines for Reading and Discussion in \u201CDilemmas in Bio-Medical Ethics:\
   \ Playing God or Doing Good?\u201D"
