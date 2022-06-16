@@ -1,42 +1,41 @@
 ---
 content_type: page
+description: This section contains the assignments for the course and a note on grading
+  of papers.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 9831ab93-b81e-4066-931c-dd50c9884cf7
 ---
-
-Readings
---------
+## Readings
 
 Prepare the readings for each class in the following manner: Analyze each in terms of their argument, research methods, data (evidence marshaled to support the argument), methods of data analysis, theoretical contributions, and conclusions. How does each reading frame their topic? For readings based on fieldwork, is the ethnography convincing? Why or why not? Could the text be improved? How does the writer's style influence the strength or weakness of the argument?
 
-For each set of readings, upload one or two questions for discussion to the class website by 11:59 pm the night _before_ class. These questions will aid our discussants in their presentations and will help you prepare for class.
+For each set of readings, upload one or two questions for discussion to the class website by 11:59 pm the night *before* class. These questions will aid our discussants in their presentations and will help you prepare for class.
 
-Presentations
--------------
+## Presentations
 
 Through the course of the semester each student will make at least one 15–minute presentation of the main arguments contained within that day's readings in order to guide class discussion (in the case of books, the chapters may be divided among more than one student). The presentations are intended to give the class subjects to debate in the discussion period.
 
-Provide some background on the author(s) for that day's reading (please search beyond Wikipedia!), then give a brief summary of the reading. Highlight important analytic concepts or points, and raise some provocative questions for discussion. _Prepare an outline of your presentation and bring sufficient copies for distribution to the class_. Outlines with discussion questions must be emailed to the instructors by 9 am on the day of class.
+Provide some background on the author(s) for that day's reading (please search beyond Wikipedia!), then give a brief summary of the reading. Highlight important analytic concepts or points, and raise some provocative questions for discussion. *Prepare an outline of your presentation and bring sufficient copies for distribution to the class*. Outlines with discussion questions must be emailed to the instructors by 9 am on the day of class.
 
-[Guidelines for Reading and Discussion (PDF)]({{< baseurl >}}/resources/mit21a_302jf13_guidelines)
+{{% resource_link f4e9d6ba-23da-d287-fb90-9956fd294ada "Guidelines for Reading and Discussion (PDF)" %}}
 
-Papers
-------
+## Papers
 
 There will be three 2500–word papers (not including notes and the bibliography) due during the course of the semester. The topics will be announced in advance. Please take advantage of the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) at any stage in your writing.
 
-[Paper 1 (PDF)]({{< baseurl >}}/resources/mit21a_302jf13_paper_1)
+{{% resource_link 8713a424-e221-e439-3c66-4465eb7d5990 "Paper 1 (PDF)" %}}
 
-[Paper 2 (PDF)]({{< baseurl >}}/resources/mit21a_302jf13_paper_2)
+{{% resource_link 94e009d6-f737-710a-7a40-3cef3ddcf760 "Paper 2 (PDF)" %}}
 
-[Paper 3 (PDF)]({{< baseurl >}}/resources/mit21a_302jf13_paper_3)
+{{% resource_link 04b9624b-2ac4-7a97-354a-89f3587a0b87 "Paper 3 (PDF)" %}}
 
-### Note on Grading of Papers
+*Note on Grading of Papers*
 
-A crucial aspect of how these papers will be evaluated is the articulation of a strong thesis statement that is supported by a cogent argument. Arguments cannot be solely polemical, but must derive from a clear, well- supported evaluation of the readings, lecture materials, videos, films—or in the case of research papers, a diverse set of sources, materials, or original data that are applied to an original topic, but also build on the materials in this course. In all papers (except for the reading responses), use the citation style of the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf). Do include a bibliography in your formal papers.
+A crucial aspect of how these papers will be evaluated is the articulation of a strong thesis statement that is supported by a cogent argument. Arguments cannot be solely polemical, but must derive from a clear, well- supported evaluation of the readings, lecture materials, videos, films—or in the case of research papers, a diverse set of sources, materials, or original data that are applied to an original topic, but also build on the materials in this course. In all papers (except for the reading responses), use the citation style of the [American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf). Do include a bibliography in your formal papers.
 
 **D-range or Failing Papers** (we won't have any of these right?), do not have a clear thesis, fail to demonstrate that the writer has completed the majority of the readings (or source materials for a research paper), tend to be repetitive, and are often based on opinion rather than careful assessment of the materials consulted for the paper. The paper's structure is frequently hard to follow and its conclusions lack clarity.
 
