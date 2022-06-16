@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, course structure, requirements, grading policy,
+  academic integrity, and required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -72,12 +75,12 @@ Papers (3)
 
 {{< tableclose >}}
 
-For more information on the class activities, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the class activities, please see the {{% resource_link 9831ab93-b81e-4066-931c-dd50c9884cf7 "Assignments" %}} section.
 
 Statement on Academic Integrity
 -------------------------------
 
-In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) or the instructor.
+In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) or the instructor.
 
 Required Texts
 --------------
@@ -94,4 +97,4 @@ Roberts, Elizabeth F. S. _God's Laboratory: Assisted Reproduction in the Andes_.
 
 Wendland, Claire L. _A Heart for the Work: Journeys through an African Medical School_. University Of Chicago Press, 2010. ISBN: 9780226893273. \[Preview with [Google Books](http://books.google.com/books?id=czX-cS9aDgQC&pg=PAfrontcover)\]
 
-For additional readings, please see the table in the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, please see the table in the {{% resource_link 1c389436-56ec-64c4-cd23-0fac28a7ab51 "Readings" %}} section.
