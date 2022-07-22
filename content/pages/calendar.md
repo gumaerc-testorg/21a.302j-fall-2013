@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, screenings, guest
+  lectures, and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1e27115b-fdb9-13b2-855a-7dd2259561d6
 ---
@@ -161,7 +165,7 @@ Screening: [_Uganda – Your Money Or Your Life_](http://www.journeyman.tv/?lid=
 
 Reproduction, Contraception, and Abortion
 
-Screening: [_Skin Deep: Norplant in Poor Communities_](http://www.youtube.com/watch?v=5HEIKzld1sk) and [_12th & Delaware_](http://www.imdb.com/title/tt1548865/)
+Screening: [_Skin Deep: Norplant in Poor Communities_](http://www.youtube.com/watch?v=5HEIKzld1sk) and [_12{{< sup "th" >}} & Delaware_](http://www.imdb.com/title/tt1548865/)
 
 
 {{< tdclose >}}
