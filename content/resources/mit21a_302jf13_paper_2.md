@@ -8,6 +8,7 @@ file: /courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Paper 2
 uid: 94e009d6-f737-710a-7a40-3cef3ddcf760
 ---
 Assignment to write an argument that debates the extent to which “medical paternalism,” can be a positive or negative factor that influences doctor/patient relationships, medical research and experimentation, and the development and availability of medical technologies and therapies. 
-

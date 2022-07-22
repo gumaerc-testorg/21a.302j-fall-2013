@@ -7,6 +7,7 @@ file: /courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Paper 1
 uid: 8713a424-e221-e439-3c66-4465eb7d5990
 ---
 Writing assignment to compare and contrast the medical socialization processes (and structural conditions of practice) between the U.S. and Malawi, as described in the works of Good, Good, and Wendland.
-
