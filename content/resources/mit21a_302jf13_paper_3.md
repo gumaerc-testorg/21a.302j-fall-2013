@@ -8,6 +8,7 @@ description: "Assignment to construct an essay that draws on specific, cross-cul
   \ what degree do individuals have agency or power to resist or use technologies\
   \ and interventions to further their own ends?"
 file: /courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/04b9624b2ac47a97354a89f3587a0b87_MIT21A_302JF13_Paper_3.pdf
+file_size: 129642
 file_type: application/pdf
 learning_resource_types:
 - Assignments
