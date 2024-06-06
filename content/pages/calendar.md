@@ -93,7 +93,7 @@ Medical Students in Malawi
 
 Medical Research and Ethical Medical Experimentation
 
-Screening: {{% resource_link "dbb69d83-1695-46da-9f29-38681ac98b67" "_The Lynchburg Story: Eugenic Sterilization in America_" %}}
+Screening: [_The Lynchburg Story: Eugenic Sterilization in America_](https://www.academicvideostore.com/video/lynchburg-story-eugenic-sterilization-america)
 
 
 {{< tdclose >}}
@@ -123,7 +123,7 @@ Contemporary Approaches to Autonomy, Consent, Disclosure, and Culture
 
 Biological Citizenship? Cancer and AIDS in Africa
 
-Screening: {{% resource_link "a36d7000-72ae-46bf-94ac-c2eb1654a015" "_It's My Life_" %}}
+Screening: [_It's My Life_](http://icarusfilms.com/new2002/mlife.html)
 
 
 {{< tdclose >}}
@@ -141,7 +141,7 @@ Screening: {{% resource_link "a36d7000-72ae-46bf-94ac-c2eb1654a015" "_It's My Li
 
 Human Subjects Research, Pharmaceuticals, and Resource-Poor Settings
 
-Screening: {{% resource_link "b47493d4-86f1-46a8-a3c1-f276229f847d" "_Uganda – Your Money Or Your Life_" %}}
+Screening: [_Uganda – Your Money Or Your Life_](http://www.journeyman.tv/?lid=9006)
 
 
 {{< tdclose >}}
@@ -165,7 +165,7 @@ Screening: {{% resource_link "b47493d4-86f1-46a8-a3c1-f276229f847d" "_Uganda –
 
 Reproduction, Contraception, and Abortion
 
-Screening: {{% resource_link "ceab8d51-e45a-4434-ad40-b94e42c98f0a" "_Skin Deep: Norplant in Poor Communities_" %}} and {{% resource_link "611e015c-9fac-482c-a2d5-fca13a7237f2" "_12{{< sup \"th\" >}} & Delaware_" %}}
+Screening: [_Skin Deep: Norplant in Poor Communities_](http://www.youtube.com/watch?v=5HEIKzld1sk) and [_12{{< sup "th" >}} & Delaware_](http://www.imdb.com/title/tt1548865/)
 
 
 {{< tdclose >}}
@@ -219,7 +219,7 @@ _Guest Lecturer: Burcu Mutlu_
 
 Representing Medical Humanitarianism in Film
 
-Screening: _{{% resource_link "337f4f44-9da8-4714-9d4d-af278bb43d84" "Living in Emergency: Stories of Doctors Without Borders" %}}_
+Screening: _[Living in Emergency: Stories of Doctors Without Borders](http://vimeo.com/29121376)_
 
 
 {{< tdclose >}}

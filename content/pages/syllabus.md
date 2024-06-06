@@ -80,21 +80,21 @@ For more information on the class activities, please see the {{% resource_link 9
 Statement on Academic Integrity
 -------------------------------
 
-In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult {{% resource_link "4fe6f6b0-3287-49f7-97f1-4288d08a4f98" "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)" %}} or the instructor.
+In this class you are to present your own original ideas, and oral and written work that has been completed without collaboration with others. Be sure to cite ideas that are derived from other sources accurately. If you have questions about how to cite sources properly, please consult [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) or the instructor.
 
 Required Texts
 --------------
 
-Bridges, Khiara M. _Reproducing Race: An Ethnography of Pregnancy as a Site of Racialization_. University of California Press, 2011. ISBN: 9780520268951. \[Preview with {{% resource_link "b8498635-8d93-4cb8-ad16-d9a12aea146e" "Google Books" %}}\]
+Bridges, Khiara M. _Reproducing Race: An Ethnography of Pregnancy as a Site of Racialization_. University of California Press, 2011. ISBN: 9780520268951. \[Preview with [Google Books](http://books.google.com/books?id=QUb1GKG3B_8C&pg=PAfrontcover)\]
 
-Livingston, Julie. _Improvising Medicine: An African Oncology Ward in an Emerging Cancer Epidemic_. Duke University Press, 2012. ISBN: 9780822353423. \[Preview with {{% resource_link "47246d9e-879d-4393-bdcf-b26aef933fbd" "Google Books" %}}\]
+Livingston, Julie. _Improvising Medicine: An African Oncology Ward in an Emerging Cancer Epidemic_. Duke University Press, 2012. ISBN: 9780822353423. \[Preview with [Google Books](http://books.google.com/books?id=nKfswD9goqMC&pg=PAfrontcover)\]
 
-Redfield, Peter. _Life in Crisis: The Ethical Journey of Doctors without Borders_. University of California Press, 2013. ISBN: 9780520274853. \[Preview with {{% resource_link "285f2ed1-ded4-4e60-aa21-8a7e7e0676cd" "Google Books" %}}\]
+Redfield, Peter. _Life in Crisis: The Ethical Journey of Doctors without Borders_. University of California Press, 2013. ISBN: 9780520274853. \[Preview with [Google Books](http://books.google.com/books?id=-5b8PkIViGQC&pg=PAfrontcover)\]
 
 Roberts, Dorothy. _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_. Vintage Books, 1998. ISBN: 9780679758693.
 
-Roberts, Elizabeth F. S. _God's Laboratory: Assisted Reproduction in the Andes_. University of California Press, 2012. ISBN: 9780520270831. \[Preview with {{% resource_link "b66288d5-69d6-4feb-ab72-f728e8b06543" "Google Books" %}}\]
+Roberts, Elizabeth F. S. _God's Laboratory: Assisted Reproduction in the Andes_. University of California Press, 2012. ISBN: 9780520270831. \[Preview with [Google Books](http://books.google.com/books?id=f36zAfFWRo0C&pg=PAfrontcover)\]
 
-Wendland, Claire L. _A Heart for the Work: Journeys through an African Medical School_. University Of Chicago Press, 2010. ISBN: 9780226893273. \[Preview with {{% resource_link "4c57df8f-0f92-43d8-bcfd-dfc573edd683" "Google Books" %}}\]
+Wendland, Claire L. _A Heart for the Work: Journeys through an African Medical School_. University Of Chicago Press, 2010. ISBN: 9780226893273. \[Preview with [Google Books](http://books.google.com/books?id=czX-cS9aDgQC&pg=PAfrontcover)\]
 
 For additional readings, please see the table in the {{% resource_link 1c389436-56ec-64c4-cd23-0fac28a7ab51 "Readings" %}} section.

@@ -4,6 +4,7 @@ description: "Handout containing suggestions for reading course texts, giving or
   \ presentations, developing strong questions, and writing a closing summary.\r\n\
   \r\n"
 file: /courses/21a-302j-dilemmas-in-bio-medical-ethics-playing-god-or-doing-good-fall-2013/f4e9d6ba23dad287fb909956fd294ada_MIT21A_302JF13_Guidelines.pdf
+file_size: 139138
 file_type: application/pdf
 learning_resource_types:
 - Assignments
