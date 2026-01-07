@@ -48,7 +48,7 @@ Medical Students in Malawi
 
 Medical Research and Ethical Medical Experimentation
 
-Screening: {{% resource_link "cce18251-f4fd-4845-b0d2-c1a6a9287d55" "*The Lynchburg Story*" %}}
+Screening: [*The Lynchburg Story*](https://www.youtube.com/watch?v=51nRsof66Z0)
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 1 due
@@ -64,7 +64,7 @@ Contemporary Approaches to Autonomy, Consent, Disclosure, and Culture
 
 Biological Citizenship? Cancer and AIDS in Africa
 
-Screening: {{% resource_link "ada9c212-366f-421c-9348-901a10f7bba7" "*It's My Life*" %}}
+Screening: [*It's My Life*](http://icarusfilms.com/new2002/mlife.html)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -74,7 +74,7 @@ Screening: {{% resource_link "ada9c212-366f-421c-9348-901a10f7bba7" "*It's My Li
 
 Human Subjects Research, Pharmaceuticals, and Resource-Poor Settings
 
-Screening: {{% resource_link "5ea2acad-73db-467e-b0a4-08ea99e49af2" "*Uganda – Your Money Or Your Life*" %}}
+Screening: [*Uganda – Your Money Or Your Life*](http://www.journeyman.tv/?lid=9006)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -86,7 +86,7 @@ Screening: {{% resource_link "5ea2acad-73db-467e-b0a4-08ea99e49af2" "*Uganda –
 
 Reproduction, Contraception, and Abortion
 
-Screening: {{% resource_link "69e86cc0-5616-4fad-9331-df3bcd4efd61" "*Skin Deep: Norplant in Poor Communities*" %}} and {{% resource_link "ab0ffff1-d16e-49b0-adb5-5715d74ff494" "*12*" %}}{{< sup "th" >}} {{% resource_link "ab0ffff1-d16e-49b0-adb5-5715d74ff494" "*& Delaware*" %}}
+Screening: [*Skin Deep: Norplant in Poor Communities*](http://www.youtube.com/watch?v=5HEIKzld1sk) and [*12*](http://www.imdb.com/title/tt1548865/){{< sup "th" >}} [*& Delaware*](http://www.imdb.com/title/tt1548865/)
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 2 due
@@ -116,7 +116,7 @@ New Reproductive Technologies and International Reproductive Tourism
 
 Representing Medical Humanitarianism in Film
 
-Screening: {{% resource_link "c4fce098-7371-41a7-b393-a0e25eb6519d" "*Living in Emergency: Stories of Doctors Without Borders*" %}}
+Screening: [*Living in Emergency: Stories of Doctors Without Borders*](http://vimeo.com/29121376)
 
 {{< tdclose >}}{{< tdopen >}}
  
